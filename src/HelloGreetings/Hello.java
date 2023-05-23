@@ -7,4 +7,7 @@ public class Hello {
 
     // hi
     // good morning
+
+    // good afternoon
+    // good evening
 }
