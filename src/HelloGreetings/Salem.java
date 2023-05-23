@@ -8,5 +8,7 @@ public class Salem {
 
     // ne bar
 
+    // kaiyrly kun
+    // kesh jaryk
 
 }
